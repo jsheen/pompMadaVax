@@ -5,7 +5,7 @@ Accompanies Sheen, Nguyen, Ravelomanantso, Randriamady, Andriamananjara-Cunderli
 - "vaxMada-data/objects/data_obj/" output all .RData files
 - "vaxMada-data/plots/" output all .png files
 
-# Files to conduct analyses, save and load .RData objects for analysis, as well as to plot results
+## Files to conduct analyses, save and load .RData objects for analysis, as well as to plot results
 - 0_helper_functions.R: helper functions used throughout analyses
 - 2_prepDataHH.R: prep data for characterization
 - 3a_characHH.R: creates .RData objects at household level of mortality rates and poultry husbandry.
