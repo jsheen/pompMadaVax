@@ -2,7 +2,7 @@
 Accompanies Sheen, Nguyen, Ravelomanantso, Randriamady, Andriamananjara-Cunderlik, Metcalf Golden (2025) Characterizing Newcastle disease virus transmission dynamics and the impact of vaccination in village settings.
 
 ## Make two additional directories for .RData output and plot files:
-- "vaxMada-data/objects/data_obj/" output all .RData files
+- "vaxMada-data/objects/data_obj/" output all .RData files (can download directly from Dryad at: https://doi.org/10.5061/dryad.kd51c5bjc)
 - "vaxMada-data/plots/" output all .png files
 
 ## Files to conduct analyses, save and load .RData objects for analysis, as well as to plot results
@@ -14,3 +14,7 @@ Accompanies Sheen, Nguyen, Ravelomanantso, Randriamady, Andriamananjara-Cunderli
 - 6a_plot_vill1.R, 6b_plot_vill2.R, 6c_plot_vill3.R: plot model performance of maximum-likelihood estimation
 - 7_plot_additional.R: additional plots
 - sens: sensitivity tests
+
+These programs are a work in progress, as we work to improve usability, error-catching, and speed of analysis. If you find errors, please contact Justin Sheen at jsheen (at) hsph (dot) harvard (dot) edu.
+
+Last Update: November 28, 2025
