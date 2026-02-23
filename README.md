@@ -1,5 +1,5 @@
 # Code to characterize transmission of Newcastle disease virus and vaccine impact in village settings.
-Accompanies Sheen, Nguyen, Ravelomanantso, Randriamady, Andriamananjara-Cunderlik, Metcalf Golden (2025) Characterizing Newcastle disease virus transmission dynamics and the impact of vaccination in village settings.
+Accompanies Sheen, Nguyen, Ravelomanantso, Randriamady, Andriamananjara-Cunderlik, Metcalf Golden (2026) Characterizing Newcastle disease virus transmission dynamics and the impact of vaccination in village settings.
 
 ## Make two additional directories for .RData output and plot files:
 - "vaxMada-data/objects/data_obj/" output all .RData files (can download directly from Dryad at: https://doi.org/10.5061/dryad.kd51c5bjc)
